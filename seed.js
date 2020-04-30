@@ -53,10 +53,15 @@ async function createProducts() {
 
     let files = []
 
+    
     while(files.length < 50) {
+        
+        let file_ref = ["asinhas", "burger", "chef", "doce", "espaguete", "lasanha", "logo", "pizza"]
+        let i = faker.random.number(7)
+
         files.push({
             name: faker.image.image(),
-            path: `public/images/placeholder.png`,
+            path: `public/images/${file_ref[i]}.png`,
             product_id: productsIds[Math.floor(Math.random() * totalProducts)]
         })
     }
