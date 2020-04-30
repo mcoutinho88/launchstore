@@ -22,7 +22,10 @@ Fictional Web Store application where you can advertise your product and sell it
 ## Preview
 
 <h1 align="center">
-    <img alt="" src="./public/layout/preview.PNG" width="940px" />
+    <img alt="" src="./public/layout/main-preview.PNG" width="360px" />
+    <img alt="" src="./public/layout/product-preview.PNG" width="360px" />
+
+
 </h1>
 
 
