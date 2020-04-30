@@ -23,12 +23,30 @@ Fictional Web Store application where you can advertise your product and sell it
 
 <h1 align="center">
     <img alt="" src="./public/layout/main-preview.PNG" width="360px" />
+    <img alt="" src="./public/layout/search-preview.PNG" width="360px" />
+</h1>
+
+<h1 align="center">
+    <img alt="" src="./public/layout/new-product.PNG" width="360px" />
     <img alt="" src="./public/layout/product-preview.PNG" width="360px" />
+</h1>
 
-
+<h1 align="center">
+    <img alt="" src="./public/layout/login-preview.PNG" width="360px" />
+    <img alt="" src="./public/layout/cart-preview.PNG" width="360px" />
 </h1>
 
 
+<h1 align="center">
+    <img alt="" src="./public/layout/my-ads.PNG" width="360px" />
+    <img alt="" src="./public/layout/my-orders.PNG" width="360px" />
+</h1>
+
+
+<h1 align="center">
+    <img alt="" src="./public/layout/my-sold-items.PNG" width="360px" />
+    <img alt="" src="./public/layout/success-preview.PNG" width="360px" />
+</h1>
 ---
 
 by Matheus Coutinho :wave: 
